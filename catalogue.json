@@ -1,0 +1,27 @@
+{
+ "format": 1,
+ "themes": [
+  {
+   "id": "infinite-library",
+   "name": "Infinite library",
+   "version": "1.0.0",
+   "author": "Paolo Nenzi",
+   "license": "",
+   "description": "Thirty-two halls of an endless library: knowledge, botany, the bestiary, the stars, alchemy, the sea, time, memory, machines; in sepia and in colour.",
+   "count": 32,
+   "cover": "covers/infinite-library.jpg",
+   "url": "github:pnenzi/authorbench-themes@infinite-library-1.0.0/infinite-library-1.0.0.zip"
+  },
+  {
+   "id": "ukiyo-e",
+   "name": "Ukiyo-e",
+   "version": "1.0.0",
+   "author": "Paolo Nenzi",
+   "license": "",
+   "description": "Ten places and ten feasts of the world as Japanese woodblock prints, panoramic. The feasts on fixed days come with their festive days.",
+   "count": 20,
+   "cover": "covers/ukiyo-e.jpg",
+   "url": "github:pnenzi/authorbench-themes@ukiyo-e-1.0.0/ukiyo-e-1.0.0.zip"
+  }
+ ]
+}
