@@ -10,6 +10,16 @@ The bench installs them from **Preferences › Start page › Themes to install*
 | Infinite library | 32 | the halls of an endless library, in sepia and in colour |
 | Ukiyo-e | 20 | ten places and ten feasts of the world as Japanese woodblock prints |
 
+## Licence
+
+The pictures of these themes were generated with ChatGPT (OpenAI), from prompts by Paolo Nenzi. Under OpenAI's terms,
+whoever generates an output owns it. Copyright, however, protects only works with a creative, relevant and demonstrable
+human contribution (in Italy, law 132/2025, art. 25), which pictures made from a prompt hardly have.
+
+So, to make their status plain, they are dedicated to the public domain under
+**[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)**, as Creative Commons recommends for such works.
+Use them freely. Please do not present them as made by hand.
+
 ## What a theme is
 
 A theme is a `.zip` (or a folder) that holds its pictures (JPEG, PNG or WebP) and a `theme.json` file:
@@ -19,9 +29,9 @@ A theme is a `.zip` (or a folder) that holds its pictures (JPEG, PNG or WebP) an
  "format": 1,
  "id": "ukiyo-e",
  "name": "Ukiyo-e",
- "version": "1.0.0",
- "author": "Paolo Nenzi",
- "license": "",
+ "version": "1.0.1",
+ "author": "Paolo Nenzi (images generated with ChatGPT, OpenAI)",
+ "license": "CC0-1.0",
  "description": "Ten places and ten feasts of the world as Japanese woodblock prints.",
  "pictures": [
   {"file": "venice_sunset.jpg", "caption": "Venice at sunset", "dates": "", "on": true},

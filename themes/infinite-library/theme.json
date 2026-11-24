@@ -2,9 +2,9 @@
  "format": 1,
  "id": "infinite-library",
  "name": "Infinite library",
- "version": "1.0.0",
- "author": "Paolo Nenzi",
- "license": "",
+ "version": "1.0.1",
+ "author": "Paolo Nenzi (images generated with ChatGPT, OpenAI)",
+ "license": "CC0-1.0",
  "description": "Thirty-two halls of an endless library: knowledge, botany, the bestiary, the stars, alchemy, the sea, time, memory, machines; in sepia and in colour.",
  "pictures": [
   {
