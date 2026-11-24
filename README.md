@@ -2,7 +2,8 @@
 
 Pictures for the start page of the [Author's bench](https://github.com/pnenzi/authorbench), grouped by theme.
 The bench installs them from **Preferences › Start page › Themes to install**. It can also install a theme from a
-`.zip`, from the address of a `.zip`, or from a GitHub repository (`owner/repo`).
+`.zip`, from the address of a `.zip`, from a GitHub repository (`owner/repo`), or from the address of a folder of one
+(`https://github.com/owner/repo/tree/main/themes/ukiyo-e`).
 
 | Theme | Pictures | |
 |---|---|---|
@@ -48,15 +49,21 @@ The bench makes such a package from any theme of its own: **Export as a package*
 {"format": 1, "themes": [
  {"id": "ukiyo-e", "name": "Ukiyo-e", "version": "1.0.0", "author": "Paolo Nenzi", "license": "",
   "description": "...", "count": 20, "cover": "covers/ukiyo-e.jpg",
-  "url": "github:pnenzi/authorbench-themes@ukiyo-e-1.0.0/ukiyo-e-1.0.0.zip"}
+  "url": "https://github.com/pnenzi/authorbench-themes/tree/main/themes/ukiyo-e"}
 ]}
 ```
 
-- `url` is where the package is: `github:owner/repo@tag/file.zip` (a file of a release), the address of a `.zip`, or
-  `owner/repo` (the latest release of that repository).
+- `url` is where the package is. It can be:
+  - a folder of a GitHub repository, given by its address in the browser (as the themes here are: `themes/<id>/`);
+  - the address of a `.zip`;
+  - `owner/repo`, meaning the latest release of that repository;
+  - `github:owner/repo@tag/file.zip`, meaning a file of a release.
 - `cover` is a small picture for the gallery. The bench draws it as a pencil sketch.
 
-To publish a new version, raise `version` in `catalogue.json`, upload the `.zip` to a release tagged `<id>-<version>`,
-and point `url` to it. The bench then offers the update.
+Each theme here is a folder `themes/<id>/` that holds `theme.json` and its pictures. To publish a new version:
+1. change the folder;
+2. raise `version` both in its `theme.json` and in `catalogue.json`.
+
+The bench then offers the update. Installing it again brings the new pictures and keeps what the author changed.
 
 Another catalogue can be used instead of this one: set `themes_catalogue` in the settings of the bench.
