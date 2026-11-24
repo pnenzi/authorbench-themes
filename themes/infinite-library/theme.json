@@ -1,0 +1,203 @@
+{
+ "format": 1,
+ "id": "infinite-library",
+ "name": "Infinite library",
+ "version": "1.0.0",
+ "author": "Paolo Nenzi",
+ "license": "",
+ "description": "Thirty-two halls of an endless library: knowledge, botany, the bestiary, the stars, alchemy, the sea, time, memory, machines; in sepia and in colour.",
+ "pictures": [
+  {
+   "file": "hall_alchemy.jpg",
+   "caption": "The alchemist's study",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "hall_alchemy_colour.jpg",
+   "caption": "The alchemist's study, in colour",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "hall_bestiary.jpg",
+   "caption": "The hall of the bestiary",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "hall_bestiary_colour.jpg",
+   "caption": "The hall of the bestiary, in colour",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "hall_cat.jpg",
+   "caption": "The balcony with the cat",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "hall_cat_colour.jpg",
+   "caption": "The balcony with the cat, in colour",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "hall_clockwork.jpg",
+   "caption": "The clockwork hall",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "hall_clockwork_colour.jpg",
+   "caption": "The clockwork hall, in colour",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "hall_garden.jpg",
+   "caption": "The garden reading room",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "hall_garden_colour.jpg",
+   "caption": "The garden reading room, in colour",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "hall_memories.jpg",
+   "caption": "The hall of memories",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "hall_memories_colour.jpg",
+   "caption": "The hall of memories, in colour",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "hall_sea.jpg",
+   "caption": "The hall under the sea",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "hall_sea_colour.jpg",
+   "caption": "The hall under the sea, in colour",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "hall_stairs.jpg",
+   "caption": "The hall of endless stairs",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "hall_stairs_colour.jpg",
+   "caption": "The hall of endless stairs, in colour",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "hall_stars.jpg",
+   "caption": "The hall of the constellations",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "hall_stars_colour.jpg",
+   "caption": "The hall of the constellations, in colour",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "hall_time.jpg",
+   "caption": "The hall of time",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "hall_time_colour.jpg",
+   "caption": "The hall of time, in colour",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "library_alchemy.jpg",
+   "caption": "The alchemical library",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "library_astronomy.jpg",
+   "caption": "The astronomical library",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "library_bestiary.jpg",
+   "caption": "The library of the bestiary",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "library_botany.jpg",
+   "caption": "The botanical library",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "library_knowledge.jpg",
+   "caption": "The infinite library of knowledge",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "library_machines.jpg",
+   "caption": "The mechanical library",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "library_memory.jpg",
+   "caption": "The library of memory",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "library_science.jpg",
+   "caption": "The library of the sciences",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "library_sea.jpg",
+   "caption": "The library of the sea",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "library_sky.jpg",
+   "caption": "The library under the stars",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "library_time.jpg",
+   "caption": "The library of time",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "library_universal.jpg",
+   "caption": "The universal library",
+   "dates": "",
+   "on": true
+  }
+ ]
+}

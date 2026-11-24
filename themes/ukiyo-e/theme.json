@@ -1,0 +1,131 @@
+{
+ "format": 1,
+ "id": "ukiyo-e",
+ "name": "Ukiyo-e",
+ "version": "1.0.0",
+ "author": "Paolo Nenzi",
+ "license": "",
+ "description": "Ten places and ten feasts of the world as Japanese woodblock prints, panoramic. The feasts on fixed days come with their festive days.",
+ "pictures": [
+  {
+   "file": "alps.jpg",
+   "caption": "An Alpine view",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "day_of_the_dead_oaxaca.jpg",
+   "caption": "The Day of the Dead in Oaxaca",
+   "dates": "10-31..11-02",
+   "on": true
+  },
+  {
+   "file": "diwali_ganges.jpg",
+   "caption": "The lights of Diwali on the Ganges",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "fuji_dawn.jpg",
+   "caption": "Fuji at dawn over the lake",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "gion_matsuri_kyoto.jpg",
+   "caption": "The Gion Matsuri in Kyoto",
+   "dates": "07-01..07-31",
+   "on": true
+  },
+  {
+   "file": "grand_canyon.jpg",
+   "caption": "The Grand Canyon at sunset",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "great_barrier_reef.jpg",
+   "caption": "The Great Barrier Reef",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "halong_bay.jpg",
+   "caption": "Ha Long Bay",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "holi_jaipur.jpg",
+   "caption": "Holi in Jaipur",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "lantern_festival.jpg",
+   "caption": "The Lantern Festival",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "lunar_new_year_beijing.jpg",
+   "caption": "The Lunar New Year in Beijing",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "machu_picchu.jpg",
+   "caption": "Machu Picchu in the clouds",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "midsommar_sweden.jpg",
+   "caption": "Midsummer in Sweden",
+   "dates": "06-19..06-26",
+   "on": true
+  },
+  {
+   "file": "nile_feluccas.jpg",
+   "caption": "Feluccas on the Nile at sunset",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "norwegian_fjord.jpg",
+   "caption": "A Norwegian fjord",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "rio_carnival.jpg",
+   "caption": "The Carnival of Rio",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "sahara_caravan.jpg",
+   "caption": "A caravan in the Sahara",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "strasbourg_christmas_market.jpg",
+   "caption": "The Christmas market of Strasbourg",
+   "dates": "11-27..12-24",
+   "on": true
+  },
+  {
+   "file": "venice_carnival.jpg",
+   "caption": "The Carnival of Venice",
+   "dates": "",
+   "on": true
+  },
+  {
+   "file": "venice_sunset.jpg",
+   "caption": "Venice at sunset",
+   "dates": "",
+   "on": true
+  }
+ ]
+}
